@@ -1,2 +1,1 @@
-# gogospa
-# cabinetsquare.net
+# cabinetsquare
